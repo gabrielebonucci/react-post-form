@@ -1,5 +1,7 @@
-function MyHeader() {
-    return <h2>Crea un nuovo post</h2>
-};
+import React from "react";
 
-export default MyHeader
+function MyHeader() {
+  return <h2>Crea un nuovo post</h2>;
+}
+
+export default MyHeader;
